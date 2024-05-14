@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>maybay_muctieu (129).jpg</filename>
+	<path>D:\tensorflow\train\images\train\maybay_muctieu (129).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>262</width>
+		<height>192</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maybay_muctieu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>5</ymin>
+			<xmax>239</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ten_lua</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>18</ymin>
+			<xmax>85</xmax>
+			<ymax>40</ymax>
+		</bndbox>
+	</object>
+</annotation>

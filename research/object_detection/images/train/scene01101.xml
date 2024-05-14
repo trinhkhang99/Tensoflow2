@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anh_them</folder>
+	<filename>scene01101.jpg</filename>
+	<path>D:\LAP_TRINH\train\anh_them\scene01101.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>150</width>
+		<height>80</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maybay_muctieu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>23</ymin>
+			<xmax>74</xmax>
+			<ymax>50</ymax>
+		</bndbox>
+	</object>
+</annotation>

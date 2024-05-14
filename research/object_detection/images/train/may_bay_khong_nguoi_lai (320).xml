@@ -1,0 +1,26 @@
+<annotation>
+	<folder>may_bay_khong_nguoi_lai</folder>
+	<filename>may_bay_khong_nguoi_lai (320).jpg</filename>
+	<path>D:\LAP_TRINH\train\may_bay_khong_nguoi_lai\may_bay_khong_nguoi_lai (320).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maybay_khongnguoilai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>179</ymin>
+			<xmax>529</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>

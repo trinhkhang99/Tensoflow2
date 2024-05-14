@@ -1,0 +1,35 @@
+item {
+  id: 1
+  name: 'tau_muctieu'
+  display_name: "tàu mục tiêu"
+}
+
+item {
+  id: 2
+  name: 'maybay_muctieu'
+  display_name: "may bay muc tiêu"
+}
+
+item {
+  id: 3
+  name: 'tau_dansu'
+  display_name: "tàu dân sự"
+}
+
+item {
+  id: 4
+  name: 'maybay_dansu'
+  display_name: "máy bay dân sự"
+}
+
+item {
+  id: 5
+  name: 'ten_lua'
+  display_name: "tên lửa"
+}
+
+item {
+  id: 6
+  name: 'maybay_khongnguoilai'
+  display_name: "Máy_bay_không người lái"
+}

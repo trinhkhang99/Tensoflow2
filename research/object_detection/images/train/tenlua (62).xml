@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>tenlua (62).jpg</filename>
+	<path>D:\tensorflow\train\images\train\tenlua (62).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>276</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ten_lua</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>36</ymin>
+			<xmax>135</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>

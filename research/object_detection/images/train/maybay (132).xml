@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>maybay (132).jpg</filename>
+	<path>D:\tensorflow\train\images\train\maybay (132).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>140</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maybay_dansu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>4</ymin>
+			<xmax>357</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+</annotation>

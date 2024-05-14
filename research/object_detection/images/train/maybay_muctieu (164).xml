@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>maybay_muctieu (164).jpg</filename>
+	<path>D:\tensorflow\train\images\train\maybay_muctieu (164).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maybay_muctieu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>39</ymin>
+			<xmax>261</xmax>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+</annotation>

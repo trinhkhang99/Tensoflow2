@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>tauchien (100).jpg</filename>
+	<path>D:\tensorflow\train\images\train\tauchien (100).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>299</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tau_muctieu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>25</ymin>
+			<xmax>243</xmax>
+			<ymax>83</ymax>
+		</bndbox>
+	</object>
+</annotation>

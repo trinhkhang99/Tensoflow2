@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>tenlua (255).jpg</filename>
+	<path>D:\tensorflow\train\images\test\tenlua (255).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>268</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maybay_muctieu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>81</ymin>
+			<xmax>255</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>maybay_muctieu</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>49</ymin>
+			<xmax>480</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+</annotation>

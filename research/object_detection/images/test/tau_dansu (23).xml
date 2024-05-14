@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>tau_dansu (23).jpg</filename>
+	<path>D:\tensorflow\train\images\train\tau_dansu (23).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>299</width>
+		<height>169</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tau_dansu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>81</ymin>
+			<xmax>206</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tau_dansu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>68</ymin>
+			<xmax>279</xmax>
+			<ymax>86</ymax>
+		</bndbox>
+	</object>
+</annotation>

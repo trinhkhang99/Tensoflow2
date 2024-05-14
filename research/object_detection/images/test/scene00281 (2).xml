@@ -1,0 +1,26 @@
+<annotation>
+	<folder>FFOutput</folder>
+	<filename>scene00281.jpg</filename>
+	<path>D:\FFOutput\scene00281.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>150</width>
+		<height>80</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tau_muctieu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>17</ymin>
+			<xmax>107</xmax>
+			<ymax>39</ymax>
+		</bndbox>
+	</object>
+</annotation>
